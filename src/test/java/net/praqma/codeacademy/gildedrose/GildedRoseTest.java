@@ -4,6 +4,7 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
+// something
 public class GildedRoseTest {
 
     @Test
